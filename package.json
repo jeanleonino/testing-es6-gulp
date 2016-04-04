@@ -1,0 +1,14 @@
+{
+  "name": "testing-es6-gulp",
+  "version": "0.0.1",
+  "description": "Testing es6 with gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Lucas <jeanleonino@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
